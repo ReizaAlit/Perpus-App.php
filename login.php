@@ -25,7 +25,8 @@
                 <label for="exampleInputPassword1" class="form-label">Password</label>
                 <input required name ="password" type="password" class="form-control" id="exampleInputPassword1">
             </div>
-            <button name="submit" type="submit" class="btn btn-primary">Submit</button>
+            <h5 class="form-text">Belum Punya Akun? <a href="./register.php">Klik disini</a> </h5>
+            <button name="submit" type="submit" class="btn btn-primary">Submit</button>       
     </div>
     
     

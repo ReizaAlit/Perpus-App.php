@@ -41,7 +41,7 @@
             </tbody>
         </table>
     <br>
-    <a class="btn btn-primary" href="./tambah-buku.php">Tambah Buku</a>
+    <a class="btn btn-primary mb-4" href="./tambah-buku.php">Tambah Buku</a>
     <br>
     <a class="btn btn-success" href="./perpus.php">Kembali Ke Halaman Utama</a>
 

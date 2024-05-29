@@ -18,13 +18,13 @@
 </head>
 <body>
     <div class="container">
-        <h4>Nama : Reiza Alithian Syach</h4>
-        <h4>NPM : 2210631170098</h4>
-        <h4>Kelas : 4A-Informatika</h4>
-        <h4>Mata Kuliah : Pemrograman Web</h4>
+        <h6>Nama : Reiza Alithian Syach</h6>
+        <h6>NPM : 2210631170098</h6>
+        <h6>Kelas : 4A-Informatika</h6>
+        <h6>Mata Kuliah : Pemrograman Web</h6>
         <h1 class="my-4">Aplikasi Perpustakaan</h1>
 
-        <a class="btn btn-primary" href="./buku.php">Lihat Daftar Buku</a>
+        <a class="btn btn-primary mb-2" href="./buku.php">Lihat Daftar Buku</a>
         <br>
         <a class="btn btn-success" href="./staff.php">Lihat Daftar Staff</a>
         <br><br>
